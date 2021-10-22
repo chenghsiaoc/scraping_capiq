@@ -1,0 +1,6 @@
+Thumbs.db
+venv
+/data/
+*.py
+.ipynb_checkpoints
+__pycache__
